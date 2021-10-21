@@ -14,11 +14,7 @@ public class Circle {
 
         System.out.println("Circumference" + c);
         System.out.println("Area" + a);
-<<<<<<< HEAD
         input.close();
-=======
->>>>>>> 42f3869c9f4b527627b8e723d7b4b98131181b27
-        
     }
 
 }
